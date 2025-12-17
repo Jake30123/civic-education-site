@@ -1,0 +1,1 @@
+Olin College prepares students to become exemplary engineering innovators who recognize needs, design solutions, and engage in creative enterprises for the **good of the world**. Olin is dedicated to continual discovery and development of effective learning approaches and environments, and to co-developing educational transformation with collaborators around the globe.

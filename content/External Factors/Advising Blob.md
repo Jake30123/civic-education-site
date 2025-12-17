@@ -1,0 +1,1 @@
+Graeff discussed the possibility of using the advising structure that involves the advisor, someone with a more grown [[Professional Identity]], helping their advisee and advisees think about that journey for themselves, and provide space for that thinking and conversation, along with advice.

@@ -1,0 +1,5 @@
+Critical actions are actions taken by individuals with the aim of fighting/achieving a more equitable society and/or to alleviate suffering. This makes it very related to [[Compassion as an Act]] Critical action allows people to apply the knowledge taught in [[Critical Awareness]] to exercise their values.
+- Can be done in the curriculum through [[COP]]s.
+- Can be done outside the curriculum through volunteering, research, labs, project teams, clubs, and internships/summer experiences.
+
+[[Critical Awareness]] gives a student the ability to see a problem/understand a situation, [[COP]]s provide the opportunity to talk to and help the people affected by a problem, the [[Civic Identity]] of the student informs how they process the situation, their opinions, stance, and objectives of their actions. [[Compassion as an Act]] plays a role because Critical Action is in itself a compassionate act, to take action to make the world a better place.
