@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 Hello! And welcome to the chaotic world that is Curriculum Redesign! This website is a look under the hood at all the thoughts that have led the Civic Education Curriculum Redesign Team (Tamás Regan, Timur Gray, Jake (James) Hamilton, and Grant Rechtin) to where they are now. It's unpolished and messy, but it's all there. The graph displays a visual representation of how all of our ideas are linked together (or how they are not, depending on how you look at it). Each of these ideas or nodes is its own text file, so if you want to read more about an idea, click on a node and it will take you to the file. In the [[Key Graphs, Thoughts and Feedback!]] file is our feedback form. Please fill it out with your thoughts on our frameworks and takeaways! Our **definition of civic education** in an Olin context is written here: 
 
 Civic Education: Equipping students with the competencies to develop that student's Civic Identity.
