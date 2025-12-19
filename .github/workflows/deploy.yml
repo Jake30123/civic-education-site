@@ -1,6 +1,7 @@
 name: Deploy Quartz Site
 
 on:
+  workflow_dispatch:      # <--- THIS is the missing key for the manual button
   push:
     branches:
       - main
